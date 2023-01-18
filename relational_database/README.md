@@ -10,6 +10,10 @@ https://www.freecodecamp.org/learn/relational-database/
 -   Bash shell concepts such as _stdin, stdout, stderr_.
 -   Redirections and pipes (`>`, `>>`, `<`, `|`).
 -   Basic regex parsing and string replacement.
+-   Bash subshell usage within scripts for _essentially_ anything necessary.
+-   Deeper knowledge of Git via CLI.
+-   More Git commands: `stash`, `rebase`, `reset`, `revert`.
+-   Git concepts such as squashing, rebasing, etc.
 
 ### Bash scripting commands:
 
